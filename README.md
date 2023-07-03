@@ -1,1 +1,2 @@
 # My-gallery-test
+<!DOCTYPE>
